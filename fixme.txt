@@ -1,0 +1,20 @@
+--- Known Issues (@ks) BILINEN SORUNLAR ---
+@ks01 - Level atladıktan sonra level anlık güncellenmiyor
+@ks02 - Bineklerde (sanırım animasyonları eksik) hareket etmeme sorunu var
+@ks03 - Eşya giyili olsa bile depoya konulabiliyor
+@ks04 - Giyilebilir bineklerin üzerindeyken teleport olayından sonra karakter unmount oluyor (asker at'ta olmuyor)
+@ks05 - Silah Kostümü takılı iken silahı çıkaramıyorsun. Olması gereken: Silah çıkarılırsa, silah kostümü de unequip olsun.
+@ks06 - Depoya eşya konulduğunda item_save query'si hatalı çalıştığı için item ortadan kayboluyor.
+		Oyuncudan alınıyor, depoya kaydedilmeye çalışılıyor ama başarısız olunca item oyuncuya geri verilmediği için doğal olarak yok oluyor.
+		Bu değişiklik flush edilmeden önce sunucu durdurulursa item tabii ki oyunucun envanterinde olduğu hale dönüyor.
+		Problemin nereden kaynaklandığını bilmiyorum ama giden query'nin şöyle bir şey olması gerektiğini biliyorum;
+		10007009    10864    SAFEBOX    0    1    50826    0    54    200    1800    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0
+		Buradaki SAFEBOX değeri length.h'daki EWindows enum'ından geliyor. Eşya envanterde ise INVENTORY, kuşanılmışsa EQUIPMENT değerini alır.
+		Nasıl oluyor da enum'daki diğer değerler ile çalışabiliyorken SAFEBOX'ta sorun çıkarıyor anlamıyorum.
+		Veritabanına baktım, window field'ında SAFEBOX değeri de kullanılabilir gözüküyor.
+		https://ibb.co/fSbyJm4
+		Her şeyin olması gerektiği gibi gözükmesi, problemi çözmeyi zorlaştırıyor.
+@ks07 - Hit Percent gibi bazı kaynakların yolu düzeltilmeli.
+@ks08 - Yeni Arındırma Paneli'ndeki Şansı Artır özelliğinin çalıştığından emin değilim. Şimdilik bekleyebilir.
+
+--- @fixme ---

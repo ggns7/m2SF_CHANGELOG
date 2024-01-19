@@ -1,0 +1,26 @@
+@todo01 - Account Save System (ggns7) eklenecek - OK
+@todo02 - Quest'lerdeki yazıların yüklenme süresi sıfırlanacak - OK
+@todo03 - Maks Level 120'ye yükseltilecek - OK
+@todo04 - Envanter sayfa sayısı 4'e yükseltilecek - OK
+@todo05 - Official Yeni Envanter Görünümü eklenecek - OK
+@todo06 - Ekipman Penceresi sayfa sayısı 2'ye yükseltilecek - OK
+@todo07 - Official Karakter Seçme tasarımı entegre edilecek - OK
+@todo08 - Mob Target Info Eklenecek
+@todo09 - Mob ve Oyuncuların HP Barı üzerinde HP değeri gösterilecek
+@todo10 - Mob ve Oyuncuların kaybettikleri HP değeri HP Barı'nda simüle edilecek
+@todo11 - Hızlı Kanal Değiştirme eklenecek
+@todo12 - Mitsi Simya Sistemi ve Görünümü eklenecek - OK
+@todo13 - Inventory Slot Marking System - OK
+@todo14 - Pickup Slot Effect Sistemi eklenecek
+@todo15 - Silah Kostüm Sistemi eklenecek
+@todo16 - Binekler giyilebilir hale getirilecek (kostüm değil) - OK
+@todo17 - Normal Pet'ler giyilebilir hale getirilecek (kostüm değil) - OK
+@todo18 - Kuşak Sistemi eklenecek
+@todo19 - Aura Sistemi eklenecek
+@todo20 - Efekt Sistemi eklenecek (Zırh, Silah)
+@todo21 - Binek Kostümü Sistemi eklenecek
+@todo22 - Pet Kostümü Sistemi eklenecek
+@todo23 - Kuşak Kostümü Sistemi eklenecek
+@todo24 - Element Efsunları ve İşlevleri entegre edilecek
+@todo25 - Tılsım Sistemi eklenecek
+@todo26 - Mob'ların HP barı altında (official gibi) elementlerini gösteren ikon gösterilecek

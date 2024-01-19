@@ -1,0 +1,6 @@
+@ks01 - FIXED
+Mitsi Safir tooltip sorunu - FIXED
+Giyilen Binek (at dışındakiler) çıkarıldıktan sonra binek eşyası 3-4 saniye sonra unequip oluyordu - FIXED
+Giyilen Pet çıkarıldıktan sonra pet eşyası 3-4 saniye sonra unequip oluyordu - FIXED
+@ks02 - FIXED
+@ks03 - FIXED

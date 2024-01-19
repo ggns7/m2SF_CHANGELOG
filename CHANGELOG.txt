@@ -1,0 +1,25 @@
+1 - Account Save System (ggns7) eklendi
+2 - Envanter Sayfa Sayısı 4'e yükseltildi
+3 - Maks Level 120'ye yükseltildi
+4 - Official Yeni Envanter Görünümü eklendi
+5 - Ekipman Penceresi Sayfa Sayısı 2'ye yükseltildi
+6 - Official Karakter Seçme Ekranı entegre edildi
+7 - Mitsi Simya ve Görünümü eklendi
+8 - Inventory Slot Marking eklendi
+9 - Official Loading Resimleri (x36) eklendi
+10 - 115 Zırhları eklendi
+11 - 100 Level Kaskları eklendi
+12 - Kara Ejderha Zırh ve Silahları eklendi
+13 - Zodyak Zırh ve Silahları eklendi
+14 - Ateş ve Okyanus ayakkabıları eklendi
+15 - Giyilebilir Pet Sistemi eklendi (kostüm değil, ekipman olarak)
+16 - Giyilebilir Binek Sistemi eklendi (kostüm değil, ekipman olarak)
+17 - Granny Sürümü 2.4'den 2.9'a yükseltildi
+18 - Pack tarafında Pet ve Binek kaynak yolu değiştirildi (npc_pet, npc_mount)
+19 - Pet ve Binek MobNPC olarak tanımları Pet: 35000'den başlar, Binek: 40000'den başlar.
+20 - Pet ve Binek Item olarak tanımları Pet: 55000'den başlar, Binek: 77000'den başlar.
+21 - Silah Kostümü Sistemi eklendi
+22 - Tüm bineklerin üzerinde saldırı yapılabilir
+23 - PSM Sistemi eklendi
+24 - Official Yeni Üretim Paneli eklendi
+25 - Obje enemy ise ve ona atak yapmıyorsak, collision'ı aktif edilmez (içerisinden geçebilirsin)
